@@ -1,0 +1,39 @@
+
+@font-face {
+    font-family:'Tokyo';
+    src:url('fonts/ZenTokyoZoo-Regular.ttf');
+}
+
+
+.bg-blue{
+    background-color:rgb(92, 172, 247);
+}
+
+#titre1{
+    color:rgb(1, 1, 8);
+    font-size:40px;
+    text-align:center;
+}
+.titre{
+    font-family:serif;
+    color:rgb(239, 241, 243);
+    text-align:center;
+    margin-left:450px;
+    width:400px;
+}
+img {
+    width:300px;
+    height:280px;
+    margin-left:500px;
+    border-radius:300px;
+   
+}
+#button{
+    margin-left:550px;
+    width:200px;
+    height:80;
+    border:5px solid rgb(240, 120, 8);
+    color:rgb(92, 172, 247);
+    font-family:'Tokyo';
+    font-size:60px;
+    }

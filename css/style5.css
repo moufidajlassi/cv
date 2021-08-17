@@ -1,0 +1,17 @@
+body {
+    background-color:#d2d1d3;
+    display:flex;
+    justify-content:center;
+}
+.container{
+    display:flex;
+    flex-direction:column;
+    min-width:50%;
+}
+form input{
+    margin:1em 0;
+    border:2px solid rgba(50.106.197);
+    width:600px;
+    height:20px;
+    border-color:blue;
+}
